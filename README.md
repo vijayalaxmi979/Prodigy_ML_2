@@ -1,4 +1,5 @@
 #**Project Overview:**
+
 **Customer Segmentation with K-means Clustering**
 
 1. Implemented advanced data analysis techniques to derive insights from a retail store's customer data.
